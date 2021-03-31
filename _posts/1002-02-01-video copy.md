@@ -2,7 +2,6 @@
 layout: post
 ---
 
-video example 2
+DOCKER KURULUM
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/khySM1YBQvA" frameborder="0" allowfullscreen></iframe>
-
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1617223960/video_to_markdown/images/youtube--WX0d3tfL_HY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WX0d3tfL_HY "")
